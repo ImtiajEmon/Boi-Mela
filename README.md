@@ -1,2 +1,2 @@
-# Boi-Mela
-It's an online book store where people can buy books
+# Bookztron
+Here people can buy their favourite books
